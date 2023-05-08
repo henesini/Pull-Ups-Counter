@@ -1,0 +1,48 @@
+body {
+    background-image: url("pullupsback.jpg");
+    background-size: cover;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: center;
+    color: #DDB31A;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #0B0B0B;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#increment-btn {
+    background: #6C0C0C;
+    display: block;
+    justify-content: center;
+}
+
+#save-btn {
+    background: #08CC19;
+    display: block;
+    justify-content: center;
+}
+#save-el {
+    font-weight: bolder;
+}
