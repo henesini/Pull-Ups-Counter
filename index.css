@@ -5,6 +5,8 @@ body {
     font-weight: bold;
     text-align: center;
     color: #DDB31A;
+    font-size: 100px;
+    height:auto;
 }
 
 h1 {
@@ -13,7 +15,8 @@ h1 {
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 100px;
+    font-weight: bold;
     margin-top: 0;
     margin-bottom: 20px;
 }
@@ -24,7 +27,7 @@ button {
     padding-bottom: 10px;
     color: #0B0B0B;
     font-weight: bold;
-    width: 200px;
+    width: 470px;
     border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
